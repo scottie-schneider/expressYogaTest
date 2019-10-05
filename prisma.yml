@@ -1,0 +1,2 @@
+endpoint: https://us1.prisma.sh/raices/expressYogaTest/dev
+datamodel: datamodel.prisma
